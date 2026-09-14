@@ -12,3 +12,9 @@
 
 -- Step 4 Mart - Create skills mart tables
 .read 04_create_skills_mart.sql
+
+--step 5 Mart - Create priority mart tables
+.read 05_create_priority_mart.sql
+
+--step 6 Mart - Update priority mart tables
+.read 06_update_priority_mart.sql
